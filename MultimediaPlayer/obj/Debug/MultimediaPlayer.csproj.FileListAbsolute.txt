@@ -1,0 +1,70 @@
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csprojAssemblyReference.cache
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.g.cs
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\App.g.cs
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.cache
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.lref
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe.config
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.pdb
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.baml
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.g.resources
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.Properties.Resources.resources
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.GenerateResource.cache
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.exe
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.pdb
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe.config
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.pdb
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csprojAssemblyReference.cache
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.g.cs
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\App.g.cs
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.cache
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.lref
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.baml
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.g.resources
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.Properties.Resources.resources
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.GenerateResource.cache
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.exe
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.pdb
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\WPF\Multimedia_Player_Window\Multimedia_Player_Windows\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CopyComplete
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\bin\Debug\Gma.System.MouseKeyHook.dll
+G:\My Study\Windows\Project3_github\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CopyComplete
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe.config
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.exe
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.pdb
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\bin\Debug\MultimediaPlayer.pdb
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.AssemblyReference.cache
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\App.g.cs
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.cache
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.lref
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.g.resources
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.Properties.Resources.resources
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.GenerateResource.cache
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\sacph\Documents\English\Multimedia_Player_Windows-master\MultimediaPlayer\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CopyComplete
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe.config
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\bin\Debug\MultimediaPlayer.exe
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\bin\Debug\MultimediaPlayer.pdb
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.AssemblyReference.cache
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\App.g.cs
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.cache
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer_MarkupCompile.lref
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.g.resources
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.Properties.Resources.resources
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.GenerateResource.cache
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.csproj.CopyComplete
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.exe
+C:\Users\sacph\source\repos\Multimedia_Player_Windows_V2\MultimediaPlayer\obj\Debug\MultimediaPlayer.pdb
